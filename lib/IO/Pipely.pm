@@ -1,6 +1,6 @@
 package IO::Pipely;
 {
-  $IO::Pipely::VERSION = '0.001';
+  $IO::Pipely::VERSION = '0.002';
 }
 
 use warnings;
@@ -417,7 +417,7 @@ IO::Pipely - Portably create pipe() or pipe-like handles, one way or another.
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
